@@ -45,7 +45,7 @@ variable disk_controller_type {
   type = string
   description = "The virtual disk controller type."
   # If you want to use the "pvscsi" controller instead, make sure to change this in the preseed file too.
-  default = "nvme"
+  default = "pvscsi"
 }
 
 variable floppy_files {

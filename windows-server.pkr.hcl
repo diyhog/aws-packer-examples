@@ -28,7 +28,7 @@ variable datastore {
 variable disk_controller_type {
   type = string
   description = "The virtual disk controller type."
-  default = "nvme"
+  default = "pvscsi"
 }
 
 variable folder {
