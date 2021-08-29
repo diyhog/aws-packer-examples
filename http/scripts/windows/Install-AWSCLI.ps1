@@ -1,4 +1,4 @@
-# https://chocolatey.org/packages/awscli#install
+# https://community.chocolatey.org/packages/awscli#install
 
 $ErrorActionPreference = 'Stop'
 
