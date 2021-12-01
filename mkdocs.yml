@@ -10,7 +10,7 @@ site_url: 'https://aws-samples.github.io/vmware-cloud-on-aws-packer-examples/'
 repo_name: 'vmware-cloud-on-aws-packer-examples'
 repo_url: 'https://github.com/aws-samples/vmware-cloud-on-aws-packer-examples'
 remote_branch: 'gh-pages'
-edit_uri: 'blob/master/docs/'
+edit_uri: 'blob/main/docs/'
 
 # Copyright
 copyright: 'Copyright 2020, Amazon Web Services, Inc. or its affiliates. All rights reserved.'
